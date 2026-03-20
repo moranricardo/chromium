@@ -1,4 +1,4 @@
-# About chromedp
+# About chromium
 
 Package `chromedp` is a faster, simpler way to drive browsers supporting the
 [Chrome DevTools Protocol][devtools-protocol] in Go without external dependencies.
